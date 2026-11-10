@@ -1,0 +1,58 @@
+import { expect, test } from '@playwright/test';
+
+test('organización y cuentas docentes comparten flujo y funcionan en móvil', async ({ page }) => {
+  const unique = Date.now().toString(36);
+  const teacherName = `Docente Visual ${unique}`;
+  const username = `visual${unique}`;
+  const adminPassword = process.env.FIA_ADMIN_PASSWORD;
+  if (!adminPassword) throw new Error('Define FIA_ADMIN_PASSWORD en el entorno E2E');
+
+  await page.goto('/portal/');
+  await page.getByLabel('Usuario').fill('admin');
+  await page.getByLabel('Contraseña').fill(adminPassword);
+  await page.getByRole('button', { name: 'Ingresar al sistema' }).click();
+  await page.getByRole('link', { name: /Organización docente/ }).click();
+  await expect(page.getByRole('heading', { name: 'Organización de docentes' })).toBeVisible();
+  await expect(page.locator('select[name="school"] option').nth(1)).toBeAttached();
+  await page.locator('select[name="school"]').selectOption({ index: 1 });
+  await expect(page.locator('select[name="course"] option').nth(1)).toBeAttached();
+  await page.locator('select[name="course"]').selectOption({ index: 1 });
+  await page.getByLabel('Nombre del docente').fill(teacherName);
+  await page.getByRole('button', { name: 'Asignar docente' }).click();
+  await expect(page.getByRole('status')).toContainText('Asignación docente guardada');
+  await page.getByLabel('Buscar', { exact: true }).fill(teacherName);
+  await expect(page.locator('.teacher').filter({ hasText: teacherName })).toBeVisible();
+  await page.screenshot({ path: 'test-results/teacher-organization-desktop.png', fullPage: true });
+  await page.setViewportSize({ width: 390, height: 844 });
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBeTruthy();
+  await page.screenshot({ path: 'test-results/teacher-organization-mobile.png', fullPage: true });
+
+  await page.getByRole('link', { name: /Volver al portal/ }).click();
+  await page.getByRole('link', { name: /Cuentas de profesores/ }).click();
+  await expect(page.getByRole('heading', { name: 'Cuentas de profesores' })).toBeVisible();
+  await page.getByLabel('Buscar docente').fill(teacherName);
+  const teacherOption = page.locator('select[name="docenteId"] option').filter({ hasText: teacherName });
+  await expect(teacherOption).toBeAttached();
+  await page.locator('select[name="docenteId"]').selectOption(await teacherOption.getAttribute('value') || '');
+  await page.getByLabel('Usuario', { exact: true }).fill(username);
+  await page.getByLabel('Código de profesor').fill(`P${unique}`);
+  await page.getByLabel('Correo', { exact: true }).fill(`${username}@example.test`);
+  await page.getByLabel('Contraseña temporal').fill(`Temporal-${unique}!Aa1`);
+  await page.getByRole('button', { name: 'Crear cuenta' }).click();
+  await expect(page.getByRole('status')).toContainText('Cuenta de profesor guardada');
+  await page.getByLabel('Buscar cuenta').fill(username);
+  const account = page.locator('.item').filter({ hasText: username });
+  await expect(account).toContainText(teacherName);
+  page.once('dialog', dialog => dialog.accept());
+  await account.getByRole('button', { name: 'Desactivar' }).click();
+  await expect(account.locator('.badge')).toHaveText('Desactivada');
+  await account.getByRole('button', { name: 'Editar' }).click();
+  await page.getByLabel('Correo', { exact: true }).fill(`editado-${username}@example.test`);
+  await page.getByRole('button', { name: 'Guardar cambios' }).click();
+  await expect(account).toContainText(`editado-${username}@example.test`);
+  page.once('dialog', dialog => dialog.accept());
+  await account.getByRole('button', { name: 'Activar' }).click();
+  await expect(account.locator('.badge')).toHaveText('Activa');
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBeTruthy();
+  await page.screenshot({ path: 'test-results/teacher-accounts-mobile.png', fullPage: true });
+});

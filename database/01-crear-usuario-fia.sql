@@ -1,0 +1,19 @@
+-- Ejecutar conectado como SYSTEM en el servicio FREEPDB1 de BomERP Local.
+-- FIA_APP comparte FREEPDB1 con BOMERP_APP, pero sus tablas y datos son privados.
+ACCEPT fia_password CHAR PROMPT 'Nueva contraseña de FIA_APP: ' HIDE
+CREATE USER FIA_APP IDENTIFIED BY "&&fia_password"
+  DEFAULT TABLESPACE USERS
+  TEMPORARY TABLESPACE TEMP
+  QUOTA UNLIMITED ON USERS;
+
+GRANT CREATE SESSION TO FIA_APP;
+GRANT CREATE TABLE TO FIA_APP;
+GRANT CREATE SEQUENCE TO FIA_APP;
+GRANT CREATE TRIGGER TO FIA_APP;
+GRANT CREATE PROCEDURE TO FIA_APP;
+UNDEFINE fia_password
+
+SELECT username, account_status, default_tablespace
+FROM dba_users
+WHERE username IN ('BOMERP_APP', 'FIA_APP')
+ORDER BY username;

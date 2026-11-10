@@ -1,0 +1,226 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2738" height="3024" viewBox="0 0 2738 3024">
+<rect width="100%" height="100%" fill="#f4f7fb"/>
+<style>text{font-family:Segoe UI,Arial,sans-serif}.title{font-size:36px;font-weight:700;fill:#102a43}.sub{font-size:18px;fill:#52677d}.head{font-size:20px;font-weight:700;fill:#fff}.field{font-size:16px;fill:#263746}.key{fill:#087e8b;font-weight:700}.card{fill:#fff;stroke:#cfdae5;stroke-width:2}</style>
+<text x="36" y="54" class="title">FIA · Modelo de base de datos</text>
+<text x="36" y="84" class="sub">Oracle · Tablas, campos y tipos · esquema base + migraciones v3–v8</text>
+<rect class="card" x="18" y="124" width="650" height="199" rx="12"/>
+<path d="M30,124 h626 q12,0 12,12 v38 h-650 v-38 q0,-12 12,-12" fill="#125c82"/>
+<text x="36" y="156" class="head">FIA_PLAN</text>
+<text x="36" y="194" class="field">NUMBER_19 id PK</text>
+<text x="36" y="221" class="field">VARCHAR2_150 school NOT_NULL</text>
+<text x="36" y="248" class="field">VARCHAR2_20 version_plan NOT_NULL</text>
+<text x="36" y="275" class="field">VARCHAR2_30 variant NOT_NULL</text>
+<text x="36" y="302" class="field">VARCHAR2_300 source</text>
+<rect class="card" x="702" y="124" width="650" height="469" rx="12"/>
+<path d="M714,124 h626 q12,0 12,12 v38 h-650 v-38 q0,-12 12,-12" fill="#125c82"/>
+<text x="720" y="156" class="head">FIA_CURSO</text>
+<text x="720" y="194" class="field">NUMBER_19 id PK</text>
+<text x="720" y="221" class="field">NUMBER_19 plan_id FK_NOT_NULL</text>
+<text x="720" y="248" class="field">NUMBER_10 cycle NOT_NULL</text>
+<text x="720" y="275" class="field">VARCHAR2_300 name NOT_NULL</text>
+<text x="720" y="302" class="field">NUMBER_10 credits</text>
+<text x="720" y="329" class="field">NUMBER_10 ht</text>
+<text x="720" y="356" class="field">NUMBER_10 hp</text>
+<text x="720" y="383" class="field">NUMBER_10 hnp</text>
+<text x="720" y="410" class="field">NUMBER_10 total</text>
+<text x="720" y="437" class="field">VARCHAR2_3000 prerequisites</text>
+<text x="720" y="464" class="field">VARCHAR2_1500 notes</text>
+<text x="720" y="491" class="field">VARCHAR2_300 source</text>
+<text x="720" y="518" class="field">NUMBER_10 page</text>
+<text x="720" y="545" class="field">VARCHAR2_300 horario</text>
+<text x="720" y="572" class="field">NUMBER_10 cupos_NOT_NULL</text>
+<rect class="card" x="1386" y="124" width="650" height="172" rx="12"/>
+<path d="M1398,124 h626 q12,0 12,12 v38 h-650 v-38 q0,-12 12,-12" fill="#125c82"/>
+<text x="1404" y="156" class="head">FIA_DOCENTE_FUENTE</text>
+<text x="1404" y="194" class="field">NUMBER_19 id PK</text>
+<text x="1404" y="221" class="field">VARCHAR2_150 school</text>
+<text x="1404" y="248" class="field">VARCHAR2_250 name</text>
+<text x="1404" y="275" class="field">VARCHAR2_500 course</text>
+<rect class="card" x="2070" y="124" width="650" height="334" rx="12"/>
+<path d="M2082,124 h626 q12,0 12,12 v38 h-650 v-38 q0,-12 12,-12" fill="#125c82"/>
+<text x="2088" y="156" class="head">FIA_PROFESOR_CUENTA</text>
+<text x="2088" y="194" class="field">VARCHAR2_80 username PK</text>
+<text x="2088" y="221" class="field">VARCHAR2_100 password_hash NOT_NULL</text>
+<text x="2088" y="248" class="field">NUMBER_19 docente_id FK_UK_NOT_NULL</text>
+<text x="2088" y="275" class="field">VARCHAR2_30 codigo UK_NOT_NULL</text>
+<text x="2088" y="302" class="field">VARCHAR2_180 correo UK_NOT_NULL</text>
+<text x="2088" y="329" class="field">NUMBER_1 activo_NOT_NULL</text>
+<text x="2088" y="356" class="field">VARCHAR2_80 creado_por NOT_NULL</text>
+<text x="2088" y="383" class="field">VARCHAR2_80 modificado_por NOT_NULL</text>
+<text x="2088" y="410" class="field">TIMESTAMP creado_en NOT_NULL</text>
+<text x="2088" y="437" class="field">TIMESTAMP modificado_en NOT_NULL</text>
+<rect class="card" x="18" y="554" width="650" height="334" rx="12"/>
+<path d="M30,554 h626 q12,0 12,12 v38 h-650 v-38 q0,-12 12,-12" fill="#125c82"/>
+<text x="36" y="586" class="head">FIA_CARGA</text>
+<text x="36" y="624" class="field">NUMBER_19 id PK</text>
+<text x="36" y="651" class="field">NUMBER_19 plan_id FK_NOT_NULL</text>
+<text x="36" y="678" class="field">VARCHAR2_50 sede NOT_NULL</text>
+<text x="36" y="705" class="field">VARCHAR2_30 semestre NOT_NULL</text>
+<text x="36" y="732" class="field">VARCHAR2_80 contrato NOT_NULL</text>
+<text x="36" y="759" class="field">VARCHAR2_20 estado NOT_NULL</text>
+<text x="36" y="786" class="field">TIMESTAMP fecha NOT_NULL</text>
+<text x="36" y="813" class="field">NUMBER_10 total_horas</text>
+<text x="36" y="840" class="field">VARCHAR2_80 creado_por</text>
+<text x="36" y="867" class="field">VARCHAR2_80 modificado_por</text>
+<rect class="card" x="702" y="554" width="650" height="226" rx="12"/>
+<path d="M714,554 h626 q12,0 12,12 v38 h-650 v-38 q0,-12 12,-12" fill="#125c82"/>
+<text x="720" y="586" class="head">FIA_CARGA_AUDIT</text>
+<text x="720" y="624" class="field">NUMBER_19 id PK</text>
+<text x="720" y="651" class="field">NUMBER_19 carga_id FK_NOT_NULL</text>
+<text x="720" y="678" class="field">VARCHAR2_20 accion NOT_NULL</text>
+<text x="720" y="705" class="field">VARCHAR2_80 actor NOT_NULL</text>
+<text x="720" y="732" class="field">TIMESTAMP fecha NOT_NULL</text>
+<text x="720" y="759" class="field">VARCHAR2_300 resumen</text>
+<rect class="card" x="1386" y="554" width="650" height="523" rx="12"/>
+<path d="M1398,554 h626 q12,0 12,12 v38 h-650 v-38 q0,-12 12,-12" fill="#125c82"/>
+<text x="1404" y="586" class="head">FIA_CARGA_DETALLE</text>
+<text x="1404" y="624" class="field">NUMBER_19 id PK</text>
+<text x="1404" y="651" class="field">NUMBER_19 carga_id FK_NOT_NULL</text>
+<text x="1404" y="678" class="field">NUMBER_19 curso_id FK_NOT_NULL</text>
+<text x="1404" y="705" class="field">NUMBER_19 docente_id FK</text>
+<text x="1404" y="732" class="field">NUMBER_10 grupo NOT_NULL</text>
+<text x="1404" y="759" class="field">NUMBER_10 cupos</text>
+<text x="1404" y="786" class="field">VARCHAR2_200 ambiente</text>
+<text x="1404" y="813" class="field">VARCHAR2_60 condicion</text>
+<text x="1404" y="840" class="field">VARCHAR2_60 modalidad</text>
+<text x="1404" y="867" class="field">VARCHAR2_300 curso_nombre</text>
+<text x="1404" y="894" class="field">NUMBER_10 ciclo</text>
+<text x="1404" y="921" class="field">NUMBER_10 creditos</text>
+<text x="1404" y="948" class="field">NUMBER_10 ht</text>
+<text x="1404" y="975" class="field">NUMBER_10 hp</text>
+<text x="1404" y="1002" class="field">NUMBER_10 hnp</text>
+<text x="1404" y="1029" class="field">NUMBER_10 horas</text>
+<text x="1404" y="1056" class="field">VARCHAR2_250 docente_nombre</text>
+<rect class="card" x="2070" y="554" width="650" height="172" rx="12"/>
+<path d="M2082,554 h626 q12,0 12,12 v38 h-650 v-38 q0,-12 12,-12" fill="#125c82"/>
+<text x="2088" y="586" class="head">FIA_HORARIO</text>
+<text x="2088" y="624" class="field">NUMBER_19 detalle_id FK_NOT_NULL</text>
+<text x="2088" y="651" class="field">NUMBER_10 dia</text>
+<text x="2088" y="678" class="field">NUMBER_10 inicio</text>
+<text x="2088" y="705" class="field">NUMBER_10 fin</text>
+<rect class="card" x="18" y="984" width="650" height="226" rx="12"/>
+<path d="M30,984 h626 q12,0 12,12 v38 h-650 v-38 q0,-12 12,-12" fill="#125c82"/>
+<text x="36" y="1016" class="head">FIA_ESTUDIANTE</text>
+<text x="36" y="1054" class="field">NUMBER_19 id PK</text>
+<text x="36" y="1081" class="field">VARCHAR2_30 codigo UK_NOT_NULL</text>
+<text x="36" y="1108" class="field">VARCHAR2_180 nombre NOT_NULL</text>
+<text x="36" y="1135" class="field">VARCHAR2_180 correo</text>
+<text x="36" y="1162" class="field">VARCHAR2_30 telefono</text>
+<text x="36" y="1189" class="field">VARCHAR2_180 apoderado</text>
+<rect class="card" x="702" y="984" width="650" height="172" rx="12"/>
+<path d="M714,984 h626 q12,0 12,12 v38 h-650 v-38 q0,-12 12,-12" fill="#125c82"/>
+<text x="720" y="1016" class="head">FIA_ALUMNO_CUENTA</text>
+<text x="720" y="1054" class="field">VARCHAR2_80 username PK</text>
+<text x="720" y="1081" class="field">VARCHAR2_100 password_hash NOT_NULL</text>
+<text x="720" y="1108" class="field">NUMBER_19 estudiante_id FK_NOT_NULL</text>
+<text x="720" y="1135" class="field">NUMBER_1 puede_editar_carrera NOT_NULL</text>
+<rect class="card" x="1386" y="984" width="650" height="199" rx="12"/>
+<path d="M1398,984 h626 q12,0 12,12 v38 h-650 v-38 q0,-12 12,-12" fill="#125c82"/>
+<text x="1404" y="1016" class="head">FIA_ELECCION_CARRERA</text>
+<text x="1404" y="1054" class="field">NUMBER_19 id PK</text>
+<text x="1404" y="1081" class="field">NUMBER_19 estudiante_id FK_NOT_NULL</text>
+<text x="1404" y="1108" class="field">NUMBER_19 plan_id FK_NOT_NULL</text>
+<text x="1404" y="1135" class="field">VARCHAR2_30 periodo NOT_NULL</text>
+<text x="1404" y="1162" class="field">TIMESTAMP fecha NOT_NULL</text>
+<rect class="card" x="2070" y="984" width="650" height="226" rx="12"/>
+<path d="M2082,984 h626 q12,0 12,12 v38 h-650 v-38 q0,-12 12,-12" fill="#125c82"/>
+<text x="2088" y="1016" class="head">FIA_TARIFA</text>
+<text x="2088" y="1054" class="field">NUMBER_19 id PK</text>
+<text x="2088" y="1081" class="field">VARCHAR2_30 periodo UK_NOT_NULL</text>
+<text x="2088" y="1108" class="field">NUMBER_12_2 monto_base NOT_NULL</text>
+<text x="2088" y="1135" class="field">NUMBER_12_2 por_credito NOT_NULL</text>
+<text x="2088" y="1162" class="field">VARCHAR2_3 moneda NOT_NULL</text>
+<text x="2088" y="1189" class="field">TIMESTAMP actualizado NOT_NULL</text>
+<rect class="card" x="18" y="1414" width="650" height="334" rx="12"/>
+<path d="M30,1414 h626 q12,0 12,12 v38 h-650 v-38 q0,-12 12,-12" fill="#125c82"/>
+<text x="36" y="1446" class="head">FIA_MATRICULA</text>
+<text x="36" y="1484" class="field">NUMBER_19 id PK</text>
+<text x="36" y="1511" class="field">NUMBER_19 estudiante_id FK_NOT_NULL</text>
+<text x="36" y="1538" class="field">NUMBER_19 plan_id FK_NOT_NULL</text>
+<text x="36" y="1565" class="field">VARCHAR2_30 periodo NOT_NULL</text>
+<text x="36" y="1592" class="field">VARCHAR2_20 estado NOT_NULL</text>
+<text x="36" y="1619" class="field">NUMBER_10 creditos NOT_NULL</text>
+<text x="36" y="1646" class="field">NUMBER_12_2 monto NOT_NULL</text>
+<text x="36" y="1673" class="field">NUMBER_12_2 pagado NOT_NULL</text>
+<text x="36" y="1700" class="field">VARCHAR2_3 moneda NOT_NULL</text>
+<text x="36" y="1727" class="field">TIMESTAMP fecha NOT_NULL</text>
+<rect class="card" x="702" y="1414" width="650" height="199" rx="12"/>
+<path d="M714,1414 h626 q12,0 12,12 v38 h-650 v-38 q0,-12 12,-12" fill="#125c82"/>
+<text x="720" y="1446" class="head">FIA_MATRICULA_DET</text>
+<text x="720" y="1484" class="field">NUMBER_19 id PK</text>
+<text x="720" y="1511" class="field">NUMBER_19 matricula_id FK_NOT_NULL</text>
+<text x="720" y="1538" class="field">NUMBER_19 curso_id FK_NOT_NULL</text>
+<text x="720" y="1565" class="field">VARCHAR2_300 curso NOT_NULL</text>
+<text x="720" y="1592" class="field">NUMBER_10 creditos NOT_NULL</text>
+<rect class="card" x="1386" y="1414" width="650" height="361" rx="12"/>
+<path d="M1398,1414 h626 q12,0 12,12 v38 h-650 v-38 q0,-12 12,-12" fill="#125c82"/>
+<text x="1404" y="1446" class="head">FIA_PAGO</text>
+<text x="1404" y="1484" class="field">NUMBER_19 id PK</text>
+<text x="1404" y="1511" class="field">NUMBER_19 matricula_id FK_NOT_NULL</text>
+<text x="1404" y="1538" class="field">NUMBER_12_2 monto NOT_NULL</text>
+<text x="1404" y="1565" class="field">VARCHAR2_30 metodo NOT_NULL</text>
+<text x="1404" y="1592" class="field">VARCHAR2_100 referencia</text>
+<text x="1404" y="1619" class="field">TIMESTAMP fecha NOT_NULL</text>
+<text x="1404" y="1646" class="field">VARCHAR2_30 estado_NOT_NULL</text>
+<text x="1404" y="1673" class="field">VARCHAR2_300 observacion</text>
+<text x="1404" y="1700" class="field">TIMESTAMP revisado_en</text>
+<text x="1404" y="1727" class="field">BLOB voucher_imagen</text>
+<text x="1404" y="1754" class="field">VARCHAR2_30 voucher_mime</text>
+<rect class="card" x="2070" y="1414" width="650" height="334" rx="12"/>
+<path d="M2082,1414 h626 q12,0 12,12 v38 h-650 v-38 q0,-12 12,-12" fill="#125c82"/>
+<text x="2088" y="1446" class="head">FIA_SOLICITUD_MATRICULA</text>
+<text x="2088" y="1484" class="field">NUMBER_19 id PK</text>
+<text x="2088" y="1511" class="field">NUMBER_19 estudiante_id FK_NOT_NULL</text>
+<text x="2088" y="1538" class="field">NUMBER_19 plan_id FK_NOT_NULL</text>
+<text x="2088" y="1565" class="field">VARCHAR2_30 periodo NOT_NULL</text>
+<text x="2088" y="1592" class="field">VARCHAR2_3000 curso_ids NOT_NULL</text>
+<text x="2088" y="1619" class="field">NUMBER_10 creditos NOT_NULL</text>
+<text x="2088" y="1646" class="field">NUMBER_12_2 monto NOT_NULL</text>
+<text x="2088" y="1673" class="field">VARCHAR2_3 moneda NOT_NULL</text>
+<text x="2088" y="1700" class="field">VARCHAR2_20 estado NOT_NULL</text>
+<text x="2088" y="1727" class="field">TIMESTAMP fecha NOT_NULL</text>
+<rect class="card" x="18" y="1844" width="650" height="145" rx="12"/>
+<path d="M30,1844 h626 q12,0 12,12 v38 h-650 v-38 q0,-12 12,-12" fill="#125c82"/>
+<text x="36" y="1876" class="head">FIA_CURSO_APROBADO</text>
+<text x="36" y="1914" class="field">NUMBER_19 id PK</text>
+<text x="36" y="1941" class="field">NUMBER_19 estudiante_id FK_NOT_NULL</text>
+<text x="36" y="1968" class="field">NUMBER_19 curso_id FK_NOT_NULL</text>
+<rect class="card" x="702" y="1844" width="650" height="280" rx="12"/>
+<path d="M714,1844 h626 q12,0 12,12 v38 h-650 v-38 q0,-12 12,-12" fill="#125c82"/>
+<text x="720" y="1876" class="head">FIA_NOTIFICACION_INTENTO</text>
+<text x="720" y="1914" class="field">NUMBER_19 id PK</text>
+<text x="720" y="1941" class="field">NUMBER_19 pago_id FK_NOT_NULL</text>
+<text x="720" y="1968" class="field">NUMBER_19 matricula_id FK_NOT_NULL</text>
+<text x="720" y="1995" class="field">VARCHAR2_180 destino NOT_NULL</text>
+<text x="720" y="2022" class="field">VARCHAR2_30 canal NOT_NULL</text>
+<text x="720" y="2049" class="field">VARCHAR2_30 estado NOT_NULL</text>
+<text x="720" y="2076" class="field">VARCHAR2_300 resultado</text>
+<text x="720" y="2103" class="field">TIMESTAMP fecha NOT_NULL</text>
+<rect class="card" x="1386" y="1844" width="650" height="91" rx="12"/>
+<path d="M1398,1844 h626 q12,0 12,12 v38 h-650 v-38 q0,-12 12,-12" fill="#125c82"/>
+<text x="1404" y="1876" class="head">FIA_AGENDA_LOCK</text>
+<text x="1404" y="1914" class="field">NUMBER_19 id PK</text>
+<text x="36" y="2258" class="title">Relaciones (claves foráneas)</text>
+<text x="36" y="2294" class="field">FIA_PLAN  →  FIA_CURSO  ·  contiene</text>
+<text x="1405" y="2294" class="field">FIA_PLAN  →  FIA_CARGA  ·  programa</text>
+<text x="36" y="2328" class="field">FIA_PLAN  →  FIA_ELECCION_CARRERA  ·  elegido_en</text>
+<text x="1405" y="2328" class="field">FIA_PLAN  →  FIA_MATRICULA  ·  corresponde</text>
+<text x="36" y="2362" class="field">FIA_PLAN  →  FIA_SOLICITUD_MATRICULA  ·  solicitado</text>
+<text x="1405" y="2362" class="field">FIA_DOCENTE_FUENTE  →  FIA_PROFESOR_CUENTA  ·  cuenta</text>
+<text x="36" y="2396" class="field">FIA_DOCENTE_FUENTE  →  FIA_CARGA_DETALLE  ·  asignado</text>
+<text x="1405" y="2396" class="field">FIA_CARGA  →  FIA_CARGA_DETALLE  ·  contiene</text>
+<text x="36" y="2430" class="field">FIA_CARGA  →  FIA_CARGA_AUDIT  ·  audita</text>
+<text x="1405" y="2430" class="field">FIA_CARGA_DETALLE  →  FIA_HORARIO  ·  agenda</text>
+<text x="36" y="2464" class="field">FIA_CURSO  →  FIA_CARGA_DETALLE  ·  ofertado</text>
+<text x="1405" y="2464" class="field">FIA_ESTUDIANTE  →  FIA_ALUMNO_CUENTA  ·  acceso</text>
+<text x="36" y="2498" class="field">FIA_ESTUDIANTE  →  FIA_ELECCION_CARRERA  ·  elige</text>
+<text x="1405" y="2498" class="field">FIA_ESTUDIANTE  →  FIA_MATRICULA  ·  registra</text>
+<text x="36" y="2532" class="field">FIA_ESTUDIANTE  →  FIA_SOLICITUD_MATRICULA  ·  solicita</text>
+<text x="1405" y="2532" class="field">FIA_ESTUDIANTE  →  FIA_CURSO_APROBADO  ·  aprueba</text>
+<text x="36" y="2566" class="field">FIA_CURSO  →  FIA_CURSO_APROBADO  ·  aprobado</text>
+<text x="1405" y="2566" class="field">FIA_MATRICULA  →  FIA_MATRICULA_DET  ·  incluye</text>
+<text x="36" y="2600" class="field">FIA_CURSO  →  FIA_MATRICULA_DET  ·  matriculado</text>
+<text x="1405" y="2600" class="field">FIA_MATRICULA  →  FIA_PAGO  ·  recibe</text>
+<text x="36" y="2634" class="field">FIA_PAGO  →  FIA_NOTIFICACION_INTENTO  ·  notifica</text>
+<text x="1405" y="2634" class="field">FIA_MATRICULA  →  FIA_NOTIFICACION_INTENTO  ·  notificacion_de</text>
+</svg>

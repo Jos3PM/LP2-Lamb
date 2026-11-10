@@ -1,0 +1,84 @@
+AMBIENTAL
+1. Cursos y Docentes organizados por Ciclo Académico
+Ciclo C2
+Cálculo I: Nole Zapata Jose Alberto
+Microbiología General: Apaza Humerez Carmen Rosa / Torres Jimenez Ana Monica
+Tecnologías para el Aprendizaje / Tecnologías para el Aprendizaje y la Investigación: Salluca Añamuro Giuly Jackeline / Nole Zapata Jose Alberto / Mamani Chile Rogelio
+Gestión: Saito Roncal Alejandro Zembe
+Química Orgánica: Chila Choque Edwin
+Taller de Dibujo y Pintura: Torres Jimenez Ana Monica
+Talleres para la Vida I - Fotografía: Catacora Cahuana Samuel Harold
+Formación Cristiana II: Rojas Quispe Santiago David
+Salud y Cultura Física II: Mamani Huamani Ines / Catari Pacheco Maribel / Jakelin Margot Córdova Ruelas / Alata Tito Ronal Edgar
+Cultura y Capilla (Actividad institucional sin docente especificado)
+Ciclo C4
+Bioquímica de Alimentos: Torres Jimenez Ana Monica
+Cálculo III: Quispe Condori Ruth
+Fisicoquímica de Alimentos: Prieto Jose Manuel
+Estadística Aplicada para la Investigación I: Colla Jallahui Noe / Marmani Apaza Jhanneth
+Análisis Instrumental de Alimentos: Saito Roncal Alejandro Zembe
+Formación Cristiana IV: Enciso Cahuapaza Jhon Emerson
+Educación Ambiental y Desarrollo Sostenible: Cuadros Amanqui Brandon Hernán / Haro Casildo Sady Lourdes
+Cultura y Capilla (Actividad institucional sin docente especificado)
+Ciclo C6
+Formación Cristiana VI: Mamani Apaza Jhanneth / Maguiña Garrido Grower Henry
+Industria de Cereales: Torres Jimenez Ana Monica
+Control de Calidad de Alimentos: Calla Huayapa Maxgabriel Alexis
+Fenómenos de Transporte I: Saito Roncal Alejandro Zembe
+Balance de Masa y Energía: Mullisaca Torres Francely Celeste
+Proyecto Integrador / Integrador Proyecto: Prieto Jose Manuel / Jose Manuel Prieto
+Cultura y Capilla (Actividad institucional sin docente especificado)
+Ciclo C7
+Gestión de la Inocuidad en la Industria Alimentaria: Condori Mamani Cesar Augusto / Yapu Condori Susy
+Formación Cristiana VII: Rojas Quispe Santiago David
+Industria de Panificación: Torres Jimenez Ana Monica / Condori Mamani Cesar Augusto
+Fenómenos de Transporte II: Mullisaca Torres Francely Celeste
+Costos Industriales: Condori Mamani Cesar Augusto / Saito Roncal Alejandro Zembe
+Metodología de la Investigación: Saito Roncal Alejandro Zembe / Cesar Augusto Condori Mamani
+Cultura y Capilla (Actividad institucional sin docente especificado)
+Ciclo C8
+Industria de Productos Proteicos: Saito Roncal Alejandro Zembe
+Diseño de Fábricas Alimentarias: Mamani Cuela Enrique
+Formación Cristiana VIII: Meza Villanueva Manases Abner
+Sistema Integrado de Gestión en la Industria Alimentaria: Yapu Condori Susy / Torres Jimenez Ana Monica
+Fenómenos de Transporte III: Prieto Jose Manuel
+Investigación en Alimentos: Apaza Humerez Carmen Rosa
+Cultura y Capilla (Actividad institucional sin docente especificado)
+Ciclo C10
+Maquinarias y Equipos en la Industria Alimentaria: Coaquira Quispe Percy
+Seminario de Tesis: Saito Roncal Alejandro Zembe
+Formación Cristiana X: Contreras Condor Join Erick / Garnique Hinostroza Ronald
+Formulación de Proyectos de Inversión: Prieto Jose Manuel / Calla Huayapa Maxgabriel Alexis
+Desarrollo e Innovación de Productos Alimentarios: Calla Huayapa Maxgabriel Alexis / Condori Marmani Cesar Augusto / Prieto Jose Manuel
+Cultura y Capilla (Actividad institucional sin docente especificado)
+2. Relación de Docentes y Cursos que dictan
+Alata Tito Ronal Edgar: Salud y Cultura Física II
+Apaza Humerez Carmen Rosa: Microbiología General, Investigación en Alimentos
+Calla Huayapa Maxgabriel Alexis: Control de Calidad de Alimentos, Formulación de Proyectos de Inversión, Desarrollo e Innovación de Productos Alimentarios
+Catacora Cahuana Samuel Harold: Talleres para la Vida I - Fotografía
+Catari Pacheco Maribel: Salud y Cultura Física II
+Chila Choque Edwin: Química Orgánica
+Coaquira Quispe Percy: Maquinarias y Equipos en la Industria Alimentaria
+Colla Jallahui Noe: Estadística Aplicada para la Investigación I
+Condori Mamani Cesar Augusto (o Condori Marmani): Gestión de la Inocuidad en la Industria Alimentaria, Industria de Panificación, Costos Industriales, Metodología de la Investigación, Desarrollo e Innovación de Productos Alimentarios
+Contreras Condor Join Erick: Formación Cristiana X
+Cuadros Amanqui Brandon Hernán: Educación Ambiental y Desarrollo Sostenible
+Enciso Cahuapaza Jhon Emerson: Formación Cristiana IV
+Garnique Hinostroza Ronald: Formación Cristiana X
+Haro Casildo Sady Lourdes: Educación Ambiental y Desarrollo Sostenible
+Jakelin Margot Córdova Ruelas: Salud y Cultura Física II
+Maguiña Garrido Grower Henry: Formación Cristiana VI
+Mamani Apaza Jhanneth: Formación Cristiana VI, Estadística Aplicada para la Investigación I
+Mamani Chile Rogelio: Tecnologías para el Aprendizaje
+Mamani Cuela Enrique: Diseño de Fábricas Alimentarias
+Mamani Huamani Ines: Salud y Cultura Física II
+Meza Villanueva Manases Abner: Formación Cristiana VIII
+Mullisaca Torres Francely Celeste: Balance de Masa y Energía, Fenómenos de Transporte II
+Nole Zapata Jose Alberto: Cálculo I, Tecnologías para el Aprendizaje
+Prieto Jose Manuel: Fisicoquímica de Alimentos, Proyecto Integrador, Fenómenos de Transporte III, Formulación de Proyectos de Inversión, Desarrollo e Innovación de Productos Alimentarios
+Quispe Condori Ruth: Cálculo III
+Rojas Quispe Santiago David: Formación Cristiana II, Formación Cristiana VII
+Saito Roncal Alejandro Zembe: Gestión, Análisis Instrumental de Alimentos, Fenómenos de Transporte I, Costos Industriales, Metodología de la Investigación, Industria de Productos Proteicos, Seminario de Tesis
+Salluca Añamuro Giuly Jackeline: Tecnologías para el Aprendizaje
+Torres Jimenez Ana Monica: Microbiología General, Taller de Dibujo y Pintura, Bioquímica de Alimentos, Industria de Cereales, Industria de Panificación, Sistema Integrado de Gestión en la Industria Alimentaria
+Yapu Condori Susy: Gestión de la Inocuidad en la Industria Alimentaria, Sistema Integrado de Gestión en la Industria Alimentaria

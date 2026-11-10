@@ -1,0 +1,39 @@
+-- v6, aplicar una sola vez después de v5 y registrar versión en el control de despliegues.
+-- Confirmar previamente que no existan índices con estos nombres.
+-- Las columnas de revisión de pago pueden faltar en instalaciones basadas en oracle.sql.
+DECLARE
+  n NUMBER;
+  PROCEDURE add_if_missing(column_name VARCHAR2, ddl VARCHAR2) IS
+  BEGIN
+    SELECT COUNT(*) INTO n FROM USER_TAB_COLUMNS WHERE TABLE_NAME='FIA_PAGO' AND COLUMN_NAME=column_name;
+    IF n=0 THEN EXECUTE IMMEDIATE ddl; END IF;
+  END;
+BEGIN
+  add_if_missing('ESTADO', 'ALTER TABLE FIA_PAGO ADD (estado VARCHAR2(30) DEFAULT ''CONFIRMADO'' NOT NULL)');
+  add_if_missing('OBSERVACION', 'ALTER TABLE FIA_PAGO ADD (observacion VARCHAR2(300))');
+  add_if_missing('REVISADO_EN', 'ALTER TABLE FIA_PAGO ADD (revisado_en TIMESTAMP)');
+  add_if_missing('VOUCHER_IMAGEN', 'ALTER TABLE FIA_PAGO ADD (voucher_imagen BLOB)');
+  add_if_missing('VOUCHER_MIME', 'ALTER TABLE FIA_PAGO ADD (voucher_mime VARCHAR2(30))');
+END;
+/
+CREATE INDEX IX_FIA_EST_NOMBRE ON FIA_ESTUDIANTE(nombre, id);
+CREATE INDEX IX_FIA_MAT_FECHA ON FIA_MATRICULA(fecha DESC, id DESC);
+CREATE INDEX IX_FIA_MAT_PER_EST ON FIA_MATRICULA(LOWER(periodo), estado, plan_id, fecha DESC);
+CREATE INDEX IX_FIA_DET_CUR_MAT ON FIA_MATRICULA_DET(curso_id, matricula_id);
+CREATE INDEX IX_FIA_SOL_PER_EST ON FIA_SOLICITUD_MATRICULA(LOWER(periodo), estado);
+CREATE INDEX IX_FIA_PAGO_EST_FECHA ON FIA_PAGO(estado, fecha DESC);
+
+CREATE SEQUENCE FIA_NOTIF_SEQ START WITH 1 INCREMENT BY 1 NOCACHE;
+CREATE TABLE FIA_NOTIFICACION_INTENTO (
+ id NUMBER(19) PRIMARY KEY,
+ pago_id NUMBER(19) NOT NULL,
+ matricula_id NUMBER(19) NOT NULL,
+ destino VARCHAR2(180) NOT NULL,
+ canal VARCHAR2(30) NOT NULL,
+ estado VARCHAR2(30) NOT NULL,
+ resultado VARCHAR2(300),
+ fecha TIMESTAMP NOT NULL,
+ CONSTRAINT FK_FIA_NOTIF_PAGO FOREIGN KEY(pago_id) REFERENCES FIA_PAGO(id),
+ CONSTRAINT FK_FIA_NOTIF_MAT FOREIGN KEY(matricula_id) REFERENCES FIA_MATRICULA(id)
+);
+CREATE INDEX IX_FIA_NOTIF_PAGO ON FIA_NOTIFICACION_INTENTO(pago_id, fecha DESC);

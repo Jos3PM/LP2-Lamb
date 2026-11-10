@@ -1,0 +1,7402 @@
+[
+  {
+    "source": "Arquitectura y Urbanismo/2020-1 - Arquitectura.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      21,
+      13,
+      16,
+      13,
+      42
+    ],
+    "extracted": [
+      21,
+      13,
+      16,
+      13,
+      42
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2020-1 - Arquitectura.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      15,
+      44
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      15,
+      44
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2020-1 - Arquitectura.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      14,
+      16,
+      14,
+      44
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      14,
+      44
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2020-1 - Arquitectura.pdf",
+    "cycle": 7,
+    "page": 2,
+    "expected": [
+      23,
+      15,
+      16,
+      15,
+      46
+    ],
+    "extracted": [
+      23,
+      15,
+      16,
+      15,
+      46
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2020-1 - Arquitectura.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      22,
+      13,
+      18,
+      13,
+      44
+    ],
+    "extracted": [
+      22,
+      13,
+      18,
+      13,
+      44
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2020-1 - Arquitectura.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      15,
+      44
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      15,
+      44
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2020-1 - Arquitectura.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      23,
+      15,
+      16,
+      15,
+      46
+    ],
+    "extracted": [
+      23,
+      15,
+      16,
+      15,
+      46
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2020-1 - Arquitectura.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      22,
+      14,
+      16,
+      14,
+      44
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      14,
+      44
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2020-1 - Arquitectura.pdf",
+    "cycle": 8,
+    "page": 2,
+    "expected": [
+      23,
+      14,
+      18,
+      14,
+      46
+    ],
+    "extracted": [
+      23,
+      14,
+      18,
+      14,
+      46
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2020-1 - Arquitectura.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      22,
+      13,
+      18,
+      13,
+      44
+    ],
+    "extracted": [
+      22,
+      13,
+      18,
+      13,
+      44
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2021-1 - Arquitectura.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2021-1 - Arquitectura.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      23,
+      14,
+      18,
+      0,
+      32
+    ],
+    "extracted": [
+      23,
+      14,
+      18,
+      0,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2021-1 - Arquitectura.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      44,
+      108,
+      0,
+      152
+    ],
+    "extracted": [
+      22,
+      44,
+      108,
+      0,
+      152
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2021-1 - Arquitectura.pdf",
+    "cycle": 7,
+    "page": 2,
+    "expected": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "extracted": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2021-1 - Arquitectura.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      18,
+      12,
+      12,
+      0,
+      24
+    ],
+    "extracted": [
+      18,
+      12,
+      12,
+      0,
+      24
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2021-1 - Arquitectura.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "extracted": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2021-1 - Arquitectura.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      23,
+      14,
+      18,
+      0,
+      32
+    ],
+    "extracted": [
+      23,
+      14,
+      18,
+      0,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2021-1 - Arquitectura.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      23,
+      14,
+      18,
+      0,
+      32
+    ],
+    "extracted": [
+      23,
+      14,
+      18,
+      0,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2021-1 - Arquitectura.pdf",
+    "cycle": 8,
+    "page": 2,
+    "expected": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "extracted": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2021-1 - Arquitectura.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      18,
+      12,
+      12,
+      0,
+      24
+    ],
+    "extracted": [
+      18,
+      12,
+      12,
+      0,
+      24
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2022-1 - Arquitectura.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      20,
+      11,
+      18,
+      0,
+      29
+    ],
+    "extracted": [
+      20,
+      11,
+      18,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2022-1 - Arquitectura.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      23,
+      14,
+      18,
+      0,
+      32
+    ],
+    "extracted": [
+      23,
+      14,
+      18,
+      0,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2022-1 - Arquitectura.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      44,
+      108,
+      0,
+      152
+    ],
+    "extracted": [
+      22,
+      44,
+      108,
+      0,
+      152
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2022-1 - Arquitectura.pdf",
+    "cycle": 7,
+    "page": 2,
+    "expected": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "extracted": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2022-1 - Arquitectura.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      18,
+      12,
+      12,
+      0,
+      24
+    ],
+    "extracted": [
+      18,
+      12,
+      12,
+      0,
+      24
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2022-1 - Arquitectura.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2022-1 - Arquitectura.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      23,
+      14,
+      18,
+      0,
+      32
+    ],
+    "extracted": [
+      23,
+      14,
+      18,
+      0,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2022-1 - Arquitectura.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      23,
+      14,
+      18,
+      0,
+      32
+    ],
+    "extracted": [
+      23,
+      14,
+      18,
+      0,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2022-1 - Arquitectura.pdf",
+    "cycle": 8,
+    "page": 2,
+    "expected": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "extracted": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2022-1 - Arquitectura.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      18,
+      12,
+      12,
+      0,
+      24
+    ],
+    "extracted": [
+      18,
+      12,
+      12,
+      0,
+      24
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2023-1 - Arquitectura.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      20,
+      11,
+      18,
+      0,
+      29
+    ],
+    "extracted": [
+      20,
+      11,
+      18,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2023-1 - Arquitectura.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      23,
+      14,
+      18,
+      0,
+      32
+    ],
+    "extracted": [
+      23,
+      14,
+      18,
+      0,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2023-1 - Arquitectura.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      44,
+      108,
+      0,
+      152
+    ],
+    "extracted": [
+      22,
+      44,
+      108,
+      0,
+      152
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2023-1 - Arquitectura.pdf",
+    "cycle": 7,
+    "page": 2,
+    "expected": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "extracted": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2023-1 - Arquitectura.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      18,
+      12,
+      12,
+      0,
+      24
+    ],
+    "extracted": [
+      18,
+      12,
+      12,
+      0,
+      24
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2023-1 - Arquitectura.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2023-1 - Arquitectura.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      23,
+      14,
+      18,
+      0,
+      32
+    ],
+    "extracted": [
+      23,
+      14,
+      18,
+      0,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2023-1 - Arquitectura.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      23,
+      14,
+      18,
+      0,
+      32
+    ],
+    "extracted": [
+      23,
+      14,
+      18,
+      0,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2023-1 - Arquitectura.pdf",
+    "cycle": 8,
+    "page": 2,
+    "expected": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "extracted": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2023-1 - Arquitectura.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      18,
+      12,
+      12,
+      0,
+      24
+    ],
+    "extracted": [
+      18,
+      12,
+      12,
+      0,
+      24
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2024-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      21,
+      13,
+      16,
+      0,
+      29
+    ],
+    "extracted": [
+      21,
+      13,
+      16,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2024-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      21,
+      12,
+      18,
+      4,
+      34
+    ],
+    "extracted": [
+      21,
+      12,
+      18,
+      4,
+      34
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2024-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      23,
+      14,
+      18,
+      8,
+      40
+    ],
+    "extracted": [
+      23,
+      14,
+      18,
+      8,
+      40
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2024-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 7,
+    "page": 1,
+    "expected": [
+      23,
+      14,
+      18,
+      6,
+      38
+    ],
+    "extracted": [
+      23,
+      14,
+      18,
+      6,
+      38
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2024-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      22,
+      13,
+      18,
+      3,
+      34
+    ],
+    "extracted": [
+      22,
+      13,
+      18,
+      3,
+      34
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2024-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      20,
+      11,
+      18,
+      0,
+      29
+    ],
+    "extracted": [
+      20,
+      11,
+      18,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2024-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      23,
+      14,
+      18,
+      6,
+      38
+    ],
+    "extracted": [
+      23,
+      14,
+      18,
+      6,
+      38
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2024-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      23,
+      14,
+      18,
+      8,
+      40
+    ],
+    "extracted": [
+      23,
+      14,
+      18,
+      8,
+      40
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2024-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 8,
+    "page": 2,
+    "expected": [
+      22,
+      13,
+      18,
+      0,
+      31
+    ],
+    "extracted": [
+      22,
+      13,
+      18,
+      0,
+      31
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2024-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      19,
+      11,
+      16,
+      0,
+      27
+    ],
+    "extracted": [
+      19,
+      11,
+      16,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2025-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      21,
+      12,
+      18,
+      0,
+      30
+    ],
+    "extracted": [
+      21,
+      12,
+      18,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2025-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      21,
+      12,
+      18,
+      4,
+      34
+    ],
+    "extracted": [
+      21,
+      12,
+      18,
+      4,
+      34
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2025-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      23,
+      14,
+      18,
+      8,
+      40
+    ],
+    "extracted": [
+      23,
+      14,
+      18,
+      8,
+      40
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2025-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 7,
+    "page": 1,
+    "expected": [
+      23,
+      14,
+      18,
+      6,
+      38
+    ],
+    "extracted": [
+      23,
+      14,
+      18,
+      6,
+      38
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2025-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      22,
+      13,
+      18,
+      3,
+      34
+    ],
+    "extracted": [
+      22,
+      13,
+      18,
+      3,
+      34
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2025-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      21,
+      11,
+      20,
+      0,
+      31
+    ],
+    "extracted": [
+      21,
+      11,
+      20,
+      0,
+      31
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2025-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      23,
+      14,
+      18,
+      6,
+      38
+    ],
+    "extracted": [
+      23,
+      14,
+      18,
+      6,
+      38
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2025-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      23,
+      14,
+      18,
+      8,
+      40
+    ],
+    "extracted": [
+      23,
+      14,
+      18,
+      8,
+      40
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2025-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 8,
+    "page": 2,
+    "expected": [
+      22,
+      13,
+      18,
+      0,
+      31
+    ],
+    "extracted": [
+      22,
+      13,
+      18,
+      0,
+      31
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2025-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      19,
+      11,
+      16,
+      0,
+      27
+    ],
+    "extracted": [
+      19,
+      11,
+      16,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2026-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      21,
+      12,
+      18,
+      0,
+      30
+    ],
+    "extracted": [
+      21,
+      12,
+      18,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2026-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      21,
+      12,
+      18,
+      4,
+      34
+    ],
+    "extracted": [
+      21,
+      12,
+      18,
+      4,
+      34
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2026-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      23,
+      14,
+      18,
+      8,
+      40
+    ],
+    "extracted": [
+      23,
+      14,
+      18,
+      8,
+      40
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2026-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 7,
+    "page": 1,
+    "expected": [
+      23,
+      14,
+      18,
+      6,
+      38
+    ],
+    "extracted": [
+      23,
+      14,
+      18,
+      6,
+      38
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2026-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      22,
+      13,
+      18,
+      3,
+      34
+    ],
+    "extracted": [
+      22,
+      13,
+      18,
+      3,
+      34
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2026-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      21,
+      11,
+      20,
+      0,
+      31
+    ],
+    "extracted": [
+      21,
+      11,
+      20,
+      0,
+      31
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2026-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      23,
+      14,
+      18,
+      6,
+      38
+    ],
+    "extracted": [
+      23,
+      14,
+      18,
+      6,
+      38
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2026-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      23,
+      14,
+      18,
+      8,
+      40
+    ],
+    "extracted": [
+      23,
+      14,
+      18,
+      8,
+      40
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2026-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 8,
+    "page": 2,
+    "expected": [
+      22,
+      13,
+      18,
+      0,
+      31
+    ],
+    "extracted": [
+      22,
+      13,
+      18,
+      0,
+      31
+    ],
+    "ok": true
+  },
+  {
+    "source": "Arquitectura y Urbanismo/2026-1 - Arquitectura Y Urbanismo.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      19,
+      11,
+      16,
+      0,
+      27
+    ],
+    "extracted": [
+      19,
+      11,
+      16,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2020-1 - Ingeniería Ambiental.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      20,
+      14,
+      12,
+      14,
+      40
+    ],
+    "extracted": [
+      20,
+      14,
+      12,
+      14,
+      40
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2020-1 - Ingeniería Ambiental.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      21,
+      15,
+      12,
+      15,
+      42
+    ],
+    "extracted": [
+      21,
+      15,
+      12,
+      15,
+      42
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2020-1 - Ingeniería Ambiental.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      15,
+      44
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      15,
+      44
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2020-1 - Ingeniería Ambiental.pdf",
+    "cycle": 7,
+    "page": 2,
+    "expected": [
+      23,
+      17,
+      12,
+      17,
+      46
+    ],
+    "extracted": [
+      23,
+      17,
+      12,
+      17,
+      46
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2020-1 - Ingeniería Ambiental.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      20,
+      13,
+      14,
+      13,
+      40
+    ],
+    "extracted": [
+      20,
+      13,
+      14,
+      13,
+      40
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2020-1 - Ingeniería Ambiental.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      16,
+      44
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      16,
+      44
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2020-1 - Ingeniería Ambiental.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      15,
+      44
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      15,
+      44
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2020-1 - Ingeniería Ambiental.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      16,
+      44
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      16,
+      44
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2020-1 - Ingeniería Ambiental.pdf",
+    "cycle": 8,
+    "page": 2,
+    "expected": [
+      24,
+      16,
+      16,
+      16,
+      48
+    ],
+    "extracted": [
+      24,
+      16,
+      16,
+      16,
+      48
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2020-1 - Ingeniería Ambiental.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      19,
+      12,
+      14,
+      12,
+      38
+    ],
+    "extracted": [
+      19,
+      12,
+      14,
+      12,
+      38
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2021-1 - Ingeniería Ambiental.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "extracted": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2021-1 - Ingeniería Ambiental.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2021-1 - Ingeniería Ambiental.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2021-1 - Ingeniería Ambiental.pdf",
+    "cycle": 7,
+    "page": 2,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2021-1 - Ingeniería Ambiental.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      20,
+      17,
+      6,
+      0,
+      23
+    ],
+    "extracted": [
+      20,
+      17,
+      6,
+      0,
+      23
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2021-1 - Ingeniería Ambiental.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2021-1 - Ingeniería Ambiental.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2021-1 - Ingeniería Ambiental.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2021-1 - Ingeniería Ambiental.pdf",
+    "cycle": 8,
+    "page": 2,
+    "expected": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "extracted": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2021-1 - Ingeniería Ambiental.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2022-1 - Ingeniería Ambiental.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      20,
+      12,
+      16,
+      0,
+      28
+    ],
+    "extracted": [
+      20,
+      12,
+      16,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2022-1 - Ingeniería Ambiental.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2022-1 - Ingeniería Ambiental.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2022-1 - Ingeniería Ambiental.pdf",
+    "cycle": 7,
+    "page": 2,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2022-1 - Ingeniería Ambiental.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      21,
+      17,
+      8,
+      0,
+      25
+    ],
+    "extracted": [
+      21,
+      17,
+      8,
+      0,
+      25
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2022-1 - Ingeniería Ambiental.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2022-1 - Ingeniería Ambiental.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2022-1 - Ingeniería Ambiental.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2022-1 - Ingeniería Ambiental.pdf",
+    "cycle": 8,
+    "page": 2,
+    "expected": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "extracted": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2022-1 - Ingeniería Ambiental.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2023-1 - Ingeniería Ambiental.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      20,
+      12,
+      16,
+      0,
+      28
+    ],
+    "extracted": [
+      20,
+      12,
+      16,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2023-1 - Ingeniería Ambiental.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2023-1 - Ingeniería Ambiental.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2023-1 - Ingeniería Ambiental.pdf",
+    "cycle": 7,
+    "page": 2,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2023-1 - Ingeniería Ambiental.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      21,
+      17,
+      8,
+      0,
+      25
+    ],
+    "extracted": [
+      21,
+      17,
+      8,
+      0,
+      25
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2023-1 - Ingeniería Ambiental.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2023-1 - Ingeniería Ambiental.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2023-1 - Ingeniería Ambiental.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2023-1 - Ingeniería Ambiental.pdf",
+    "cycle": 8,
+    "page": 2,
+    "expected": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "extracted": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2023-1 - Ingeniería Ambiental.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      25,
+      17,
+      16,
+      0,
+      33
+    ],
+    "extracted": [
+      25,
+      17,
+      16,
+      0,
+      33
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2024-1 - Ingeniería Ambiental.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      19,
+      15,
+      8,
+      0,
+      23
+    ],
+    "extracted": [
+      19,
+      15,
+      8,
+      0,
+      23
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2024-1 - Ingeniería Ambiental.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      23,
+      18,
+      10,
+      0,
+      28
+    ],
+    "extracted": [
+      23,
+      18,
+      10,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2024-1 - Ingeniería Ambiental.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2024-1 - Ingeniería Ambiental.pdf",
+    "cycle": 7,
+    "page": 2,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2024-1 - Ingeniería Ambiental.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2024-1 - Ingeniería Ambiental.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      20,
+      13,
+      14,
+      0,
+      27
+    ],
+    "extracted": [
+      20,
+      13,
+      14,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2024-1 - Ingeniería Ambiental.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2024-1 - Ingeniería Ambiental.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2024-1 - Ingeniería Ambiental.pdf",
+    "cycle": 8,
+    "page": 2,
+    "expected": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "extracted": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2024-1 - Ingeniería Ambiental.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2024-1 - SP - Ingeniería Ambiental.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      19,
+      15,
+      8,
+      0,
+      23
+    ],
+    "extracted": [
+      19,
+      15,
+      8,
+      0,
+      23
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2024-1 - SP - Ingeniería Ambiental.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      23,
+      18,
+      10,
+      0,
+      28
+    ],
+    "extracted": [
+      23,
+      18,
+      10,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2024-1 - SP - Ingeniería Ambiental.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2024-1 - SP - Ingeniería Ambiental.pdf",
+    "cycle": 7,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2024-1 - SP - Ingeniería Ambiental.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2024-1 - SP - Ingeniería Ambiental.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      20,
+      13,
+      14,
+      0,
+      27
+    ],
+    "extracted": [
+      20,
+      13,
+      14,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2024-1 - SP - Ingeniería Ambiental.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2024-1 - SP - Ingeniería Ambiental.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2024-1 - SP - Ingeniería Ambiental.pdf",
+    "cycle": 8,
+    "page": 1,
+    "expected": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "extracted": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2024-1 - SP - Ingeniería Ambiental.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2025-1 - Ingeniería Ambiental.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      19,
+      14,
+      10,
+      0,
+      24
+    ],
+    "extracted": [
+      19,
+      14,
+      10,
+      0,
+      24
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2025-1 - Ingeniería Ambiental.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      23,
+      18,
+      10,
+      0,
+      28
+    ],
+    "extracted": [
+      23,
+      18,
+      10,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2025-1 - Ingeniería Ambiental.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2025-1 - Ingeniería Ambiental.pdf",
+    "cycle": 7,
+    "page": 2,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2025-1 - Ingeniería Ambiental.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2025-1 - Ingeniería Ambiental.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      20,
+      13,
+      14,
+      0,
+      27
+    ],
+    "extracted": [
+      20,
+      13,
+      14,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2025-1 - Ingeniería Ambiental.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2025-1 - Ingeniería Ambiental.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2025-1 - Ingeniería Ambiental.pdf",
+    "cycle": 8,
+    "page": 2,
+    "expected": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "extracted": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2025-1 - Ingeniería Ambiental.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2025-1 - SP - Ingeniería Ambiental.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "extracted": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2025-1 - SP - Ingeniería Ambiental.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      26,
+      20,
+      12,
+      0,
+      32
+    ],
+    "extracted": [
+      26,
+      20,
+      12,
+      0,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2025-1 - SP - Ingeniería Ambiental.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2025-1 - SP - Ingeniería Ambiental.pdf",
+    "cycle": 7,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2025-1 - SP - Ingeniería Ambiental.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2025-1 - SP - Ingeniería Ambiental.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      22,
+      13,
+      18,
+      0,
+      31
+    ],
+    "extracted": [
+      22,
+      13,
+      18,
+      0,
+      31
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2025-1 - SP - Ingeniería Ambiental.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2025-1 - SP - Ingeniería Ambiental.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2025-1 - SP - Ingeniería Ambiental.pdf",
+    "cycle": 8,
+    "page": 1,
+    "expected": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "extracted": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2025-1 - SP - Ingeniería Ambiental.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2026-1 - Ingeniería Ambiental.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      19,
+      14,
+      10,
+      0,
+      24
+    ],
+    "extracted": [
+      19,
+      14,
+      10,
+      0,
+      24
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2026-1 - Ingeniería Ambiental.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      23,
+      18,
+      10,
+      0,
+      28
+    ],
+    "extracted": [
+      23,
+      18,
+      10,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2026-1 - Ingeniería Ambiental.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2026-1 - Ingeniería Ambiental.pdf",
+    "cycle": 7,
+    "page": 2,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2026-1 - Ingeniería Ambiental.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2026-1 - Ingeniería Ambiental.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      20,
+      13,
+      14,
+      0,
+      27
+    ],
+    "extracted": [
+      20,
+      13,
+      14,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2026-1 - Ingeniería Ambiental.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2026-1 - Ingeniería Ambiental.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2026-1 - Ingeniería Ambiental.pdf",
+    "cycle": 8,
+    "page": 2,
+    "expected": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "extracted": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Ambiental/2026-1 - Ingeniería Ambiental.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2020-1 - Ingeniería Civil.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      22,
+      17,
+      10,
+      17,
+      44
+    ],
+    "extracted": [
+      22,
+      17,
+      10,
+      17,
+      44
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2020-1 - Ingeniería Civil.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      16,
+      44
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      16,
+      44
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2020-1 - Ingeniería Civil.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      16,
+      44
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      16,
+      44
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2020-1 - Ingeniería Civil.pdf",
+    "cycle": 7,
+    "page": 1,
+    "expected": [
+      22,
+      19,
+      6,
+      19,
+      44
+    ],
+    "extracted": [
+      22,
+      19,
+      6,
+      19,
+      44
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2020-1 - Ingeniería Civil.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      22,
+      18,
+      8,
+      18,
+      44
+    ],
+    "extracted": [
+      22,
+      18,
+      8,
+      18,
+      44
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2020-1 - Ingeniería Civil.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      21,
+      17,
+      12,
+      17,
+      46
+    ],
+    "extracted": [
+      21,
+      17,
+      12,
+      17,
+      46
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2020-1 - Ingeniería Civil.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      23,
+      18,
+      10,
+      18,
+      46
+    ],
+    "extracted": [
+      23,
+      18,
+      10,
+      18,
+      46
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2020-1 - Ingeniería Civil.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      16,
+      44
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      16,
+      44
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2020-1 - Ingeniería Civil.pdf",
+    "cycle": 8,
+    "page": 1,
+    "expected": [
+      22,
+      17,
+      10,
+      17,
+      44
+    ],
+    "extracted": [
+      22,
+      17,
+      10,
+      17,
+      44
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2020-1 - Ingeniería Civil.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      22,
+      18,
+      8,
+      18,
+      44
+    ],
+    "extracted": [
+      22,
+      18,
+      8,
+      18,
+      44
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2021-1 - Ingeniería Civil.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      23,
+      15,
+      16,
+      0,
+      31
+    ],
+    "extracted": [
+      23,
+      15,
+      16,
+      0,
+      31
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2021-1 - Ingeniería Civil.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2021-1 - Ingeniería Civil.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2021-1 - Ingeniería Civil.pdf",
+    "cycle": 7,
+    "page": 2,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2021-1 - Ingeniería Civil.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2021-1 - Ingeniería Civil.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      23,
+      17,
+      12,
+      0,
+      29
+    ],
+    "extracted": [
+      23,
+      17,
+      12,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2021-1 - Ingeniería Civil.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2021-1 - Ingeniería Civil.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2021-1 - Ingeniería Civil.pdf",
+    "cycle": 8,
+    "page": 2,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2021-1 - Ingeniería Civil.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      22,
+      17,
+      10,
+      0,
+      27
+    ],
+    "extracted": [
+      22,
+      17,
+      10,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2022-1 - Ingeniería Civil.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2022-1 - Ingeniería Civil.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2022-1 - Ingeniería Civil.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2022-1 - Ingeniería Civil.pdf",
+    "cycle": 7,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2022-1 - Ingeniería Civil.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2022-1 - Ingeniería Civil.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      23,
+      15,
+      16,
+      0,
+      31
+    ],
+    "extracted": [
+      23,
+      15,
+      16,
+      0,
+      31
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2022-1 - Ingeniería Civil.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2022-1 - Ingeniería Civil.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2022-1 - Ingeniería Civil.pdf",
+    "cycle": 8,
+    "page": 2,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2022-1 - Ingeniería Civil.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      22,
+      17,
+      10,
+      0,
+      27
+    ],
+    "extracted": [
+      22,
+      17,
+      10,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2023-1 - Ingeniería Civil.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2023-1 - Ingeniería Civil.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2023-1 - Ingeniería Civil.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2023-1 - Ingeniería Civil.pdf",
+    "cycle": 7,
+    "page": 2,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2023-1 - Ingeniería Civil.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2023-1 - Ingeniería Civil.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      23,
+      15,
+      16,
+      0,
+      31
+    ],
+    "extracted": [
+      23,
+      15,
+      16,
+      0,
+      31
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2023-1 - Ingeniería Civil.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2023-1 - Ingeniería Civil.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2023-1 - Ingeniería Civil.pdf",
+    "cycle": 8,
+    "page": 2,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2023-1 - Ingeniería Civil.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      22,
+      17,
+      10,
+      0,
+      27
+    ],
+    "extracted": [
+      22,
+      17,
+      10,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2024-1 - Ingeniería Civil.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "extracted": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2024-1 - Ingeniería Civil.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2024-1 - Ingeniería Civil.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2024-1 - Ingeniería Civil.pdf",
+    "cycle": 7,
+    "page": 1,
+    "expected": [
+      22,
+      17,
+      10,
+      0,
+      27
+    ],
+    "extracted": [
+      22,
+      17,
+      10,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2024-1 - Ingeniería Civil.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      18,
+      13,
+      10,
+      0,
+      23
+    ],
+    "extracted": [
+      18,
+      13,
+      10,
+      0,
+      23
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2024-1 - Ingeniería Civil.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2024-1 - Ingeniería Civil.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "extracted": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2024-1 - Ingeniería Civil.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      20,
+      15,
+      10,
+      0,
+      25
+    ],
+    "extracted": [
+      20,
+      15,
+      10,
+      0,
+      25
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2024-1 - Ingeniería Civil.pdf",
+    "cycle": 8,
+    "page": 1,
+    "expected": [
+      19,
+      14,
+      10,
+      0,
+      24
+    ],
+    "extracted": [
+      19,
+      14,
+      10,
+      0,
+      24
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2024-1 - Ingeniería Civil.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "extracted": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2025-1 - Ingeniería Civil.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2025-1 - Ingeniería Civil.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      2,
+      30
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      2,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2025-1 - Ingeniería Civil.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2025-1 - Ingeniería Civil.pdf",
+    "cycle": 7,
+    "page": 1,
+    "expected": [
+      22,
+      17,
+      10,
+      0,
+      27
+    ],
+    "extracted": [
+      22,
+      17,
+      10,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2025-1 - Ingeniería Civil.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      18,
+      13,
+      10,
+      0,
+      23
+    ],
+    "extracted": [
+      18,
+      13,
+      10,
+      0,
+      23
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2025-1 - Ingeniería Civil.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2025-1 - Ingeniería Civil.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "extracted": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2025-1 - Ingeniería Civil.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      20,
+      15,
+      10,
+      0,
+      25
+    ],
+    "extracted": [
+      20,
+      15,
+      10,
+      0,
+      25
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2025-1 - Ingeniería Civil.pdf",
+    "cycle": 8,
+    "page": 1,
+    "expected": [
+      19,
+      14,
+      10,
+      0,
+      24
+    ],
+    "extracted": [
+      19,
+      14,
+      10,
+      0,
+      24
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2025-1 - Ingeniería Civil.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "extracted": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2026-1 - Ingeniería Civil.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2026-1 - Ingeniería Civil.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      2,
+      30
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      2,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2026-1 - Ingeniería Civil.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2026-1 - Ingeniería Civil.pdf",
+    "cycle": 7,
+    "page": 1,
+    "expected": [
+      22,
+      17,
+      10,
+      0,
+      27
+    ],
+    "extracted": [
+      22,
+      17,
+      10,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2026-1 - Ingeniería Civil.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      18,
+      13,
+      10,
+      0,
+      23
+    ],
+    "extracted": [
+      18,
+      13,
+      10,
+      0,
+      23
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2026-1 - Ingeniería Civil.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2026-1 - Ingeniería Civil.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "extracted": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2026-1 - Ingeniería Civil.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      20,
+      15,
+      10,
+      0,
+      25
+    ],
+    "extracted": [
+      20,
+      15,
+      10,
+      0,
+      25
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2026-1 - Ingeniería Civil.pdf",
+    "cycle": 8,
+    "page": 1,
+    "expected": [
+      19,
+      14,
+      10,
+      0,
+      24
+    ],
+    "extracted": [
+      19,
+      14,
+      10,
+      0,
+      24
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería Civil/2026-1 - Ingeniería Civil.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "extracted": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2020-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      20,
+      14,
+      12,
+      14,
+      40
+    ],
+    "extracted": [
+      20,
+      14,
+      12,
+      14,
+      40
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2020-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      21,
+      15,
+      12,
+      15,
+      42
+    ],
+    "extracted": [
+      21,
+      15,
+      12,
+      15,
+      42
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2020-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      14,
+      42
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      14,
+      42
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2020-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 7,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      15,
+      43
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      15,
+      43
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2020-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      25,
+      18,
+      14,
+      13,
+      45
+    ],
+    "extracted": [
+      25,
+      18,
+      14,
+      13,
+      45
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2020-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      20,
+      14,
+      12,
+      16,
+      42
+    ],
+    "extracted": [
+      20,
+      14,
+      12,
+      16,
+      42
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2020-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      14,
+      42
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      14,
+      42
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2020-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      21,
+      13,
+      16,
+      12,
+      41
+    ],
+    "extracted": [
+      21,
+      13,
+      16,
+      12,
+      41
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2020-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 8,
+    "page": 1,
+    "expected": [
+      23,
+      15,
+      16,
+      17,
+      48
+    ],
+    "extracted": [
+      23,
+      15,
+      16,
+      17,
+      48
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2020-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      20,
+      15,
+      10,
+      15,
+      40
+    ],
+    "extracted": [
+      20,
+      15,
+      10,
+      15,
+      40
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2021-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "extracted": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2021-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      25,
+      18,
+      14,
+      0,
+      32
+    ],
+    "extracted": [
+      25,
+      18,
+      14,
+      0,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2021-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      23,
+      17,
+      12,
+      0,
+      29
+    ],
+    "extracted": [
+      23,
+      17,
+      12,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2021-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 7,
+    "page": 1,
+    "expected": [
+      21,
+      12,
+      18,
+      0,
+      30
+    ],
+    "extracted": [
+      21,
+      12,
+      18,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2021-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      19,
+      9,
+      20,
+      0,
+      29
+    ],
+    "extracted": [
+      19,
+      9,
+      20,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2021-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      24,
+      18,
+      12,
+      0,
+      30
+    ],
+    "extracted": [
+      24,
+      18,
+      12,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2021-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2021-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2021-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 8,
+    "page": 1,
+    "expected": [
+      20,
+      11,
+      18,
+      0,
+      29
+    ],
+    "extracted": [
+      20,
+      11,
+      18,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2021-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2022-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2022-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      25,
+      18,
+      14,
+      0,
+      32
+    ],
+    "extracted": [
+      25,
+      18,
+      14,
+      0,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2022-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      23,
+      17,
+      12,
+      0,
+      29
+    ],
+    "extracted": [
+      23,
+      17,
+      12,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2022-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 7,
+    "page": 1,
+    "expected": [
+      21,
+      12,
+      18,
+      0,
+      30
+    ],
+    "extracted": [
+      21,
+      12,
+      18,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2022-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      19,
+      9,
+      20,
+      0,
+      29
+    ],
+    "extracted": [
+      19,
+      9,
+      20,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2022-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "extracted": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2022-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2022-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2022-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 8,
+    "page": 1,
+    "expected": [
+      20,
+      11,
+      18,
+      0,
+      29
+    ],
+    "extracted": [
+      20,
+      11,
+      18,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2022-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2023-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2023-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      25,
+      18,
+      14,
+      0,
+      32
+    ],
+    "extracted": [
+      25,
+      18,
+      14,
+      0,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2023-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      23,
+      17,
+      12,
+      0,
+      29
+    ],
+    "extracted": [
+      23,
+      17,
+      12,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2023-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 7,
+    "page": 1,
+    "expected": [
+      21,
+      12,
+      18,
+      0,
+      30
+    ],
+    "extracted": [
+      21,
+      12,
+      18,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2023-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      19,
+      9,
+      20,
+      0,
+      29
+    ],
+    "extracted": [
+      19,
+      9,
+      20,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2023-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "extracted": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2023-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2023-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2023-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 8,
+    "page": 1,
+    "expected": [
+      20,
+      11,
+      18,
+      0,
+      29
+    ],
+    "extracted": [
+      20,
+      11,
+      18,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2023-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2024-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "extracted": [
+      21,
+      15,
+      12,
+      0,
+      27
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2024-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2024-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2024-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 7,
+    "page": 1,
+    "expected": [
+      21,
+      12,
+      18,
+      0,
+      30
+    ],
+    "extracted": [
+      21,
+      12,
+      18,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2024-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      20,
+      12,
+      16,
+      0,
+      28
+    ],
+    "extracted": [
+      20,
+      12,
+      16,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2024-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      20,
+      12,
+      16,
+      0,
+      28
+    ],
+    "extracted": [
+      20,
+      12,
+      16,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2024-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2024-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      21,
+      13,
+      16,
+      0,
+      29
+    ],
+    "extracted": [
+      21,
+      13,
+      16,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2024-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 8,
+    "page": 1,
+    "expected": [
+      23,
+      14,
+      18,
+      0,
+      32
+    ],
+    "extracted": [
+      23,
+      14,
+      18,
+      0,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2024-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      18,
+      10,
+      16,
+      0,
+      26
+    ],
+    "extracted": [
+      18,
+      10,
+      16,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2025-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2025-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2025-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2025-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 7,
+    "page": 1,
+    "expected": [
+      21,
+      12,
+      18,
+      0,
+      30
+    ],
+    "extracted": [
+      21,
+      12,
+      18,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2025-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      20,
+      12,
+      16,
+      0,
+      28
+    ],
+    "extracted": [
+      20,
+      12,
+      16,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2025-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      20,
+      12,
+      16,
+      0,
+      28
+    ],
+    "extracted": [
+      20,
+      12,
+      16,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2025-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2025-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      21,
+      13,
+      16,
+      0,
+      29
+    ],
+    "extracted": [
+      21,
+      13,
+      16,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2025-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 8,
+    "page": 1,
+    "expected": [
+      23,
+      14,
+      18,
+      0,
+      32
+    ],
+    "extracted": [
+      23,
+      14,
+      18,
+      0,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2025-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      18,
+      10,
+      16,
+      0,
+      26
+    ],
+    "extracted": [
+      18,
+      10,
+      16,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2026-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2026-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2026-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2026-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 7,
+    "page": 1,
+    "expected": [
+      21,
+      12,
+      18,
+      0,
+      30
+    ],
+    "extracted": [
+      21,
+      12,
+      18,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2026-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      20,
+      12,
+      16,
+      0,
+      28
+    ],
+    "extracted": [
+      20,
+      12,
+      16,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2026-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      20,
+      12,
+      16,
+      0,
+      28
+    ],
+    "extracted": [
+      20,
+      12,
+      16,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2026-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2026-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      21,
+      13,
+      16,
+      0,
+      29
+    ],
+    "extracted": [
+      21,
+      13,
+      16,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2026-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 8,
+    "page": 1,
+    "expected": [
+      23,
+      14,
+      18,
+      0,
+      32
+    ],
+    "extracted": [
+      23,
+      14,
+      18,
+      0,
+      32
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Industrias Alimentarias/2026-1 - Ingeniería De Industrias Alimentarias.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      18,
+      10,
+      16,
+      0,
+      26
+    ],
+    "extracted": [
+      18,
+      10,
+      16,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2020-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      19,
+      12,
+      14,
+      12,
+      38
+    ],
+    "extracted": [
+      19,
+      12,
+      14,
+      12,
+      38
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2020-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      22,
+      14,
+      16,
+      14,
+      44
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      14,
+      44
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2020-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      15,
+      44
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      15,
+      44
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2020-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 7,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      14,
+      42
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      14,
+      42
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2020-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      21,
+      12,
+      17,
+      13,
+      42
+    ],
+    "extracted": [
+      21,
+      12,
+      17,
+      13,
+      42
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2020-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      21,
+      15,
+      12,
+      15,
+      42
+    ],
+    "extracted": [
+      21,
+      15,
+      12,
+      15,
+      42
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2020-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      22,
+      14,
+      16,
+      14,
+      44
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      14,
+      44
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2020-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      22,
+      14,
+      16,
+      14,
+      44
+    ],
+    "extracted": [
+      22,
+      14,
+      16,
+      14,
+      44
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2020-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 8,
+    "page": 2,
+    "expected": [
+      21,
+      14,
+      14,
+      14,
+      42
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      14,
+      42
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2020-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      19,
+      10,
+      18,
+      10,
+      38
+    ],
+    "extracted": [
+      19,
+      10,
+      18,
+      10,
+      38
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2021-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2021-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      24,
+      17,
+      14,
+      0,
+      31
+    ],
+    "extracted": [
+      24,
+      17,
+      14,
+      0,
+      31
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2021-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2021-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 7,
+    "page": 2,
+    "expected": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "extracted": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2021-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "extracted": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2021-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      23,
+      18,
+      10,
+      0,
+      28
+    ],
+    "extracted": [
+      23,
+      18,
+      10,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2021-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      24,
+      17,
+      14,
+      0,
+      31
+    ],
+    "extracted": [
+      24,
+      17,
+      14,
+      0,
+      31
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2021-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2021-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 8,
+    "page": 2,
+    "expected": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "extracted": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2021-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      17,
+      12,
+      10,
+      0,
+      22
+    ],
+    "extracted": [
+      17,
+      12,
+      10,
+      0,
+      22
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2022-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      20,
+      12,
+      16,
+      0,
+      28
+    ],
+    "extracted": [
+      20,
+      12,
+      16,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2022-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      24,
+      17,
+      14,
+      0,
+      31
+    ],
+    "extracted": [
+      24,
+      17,
+      14,
+      0,
+      31
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2022-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2022-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 7,
+    "page": 2,
+    "expected": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "extracted": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2022-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "extracted": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2022-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2022-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      24,
+      17,
+      14,
+      0,
+      31
+    ],
+    "extracted": [
+      24,
+      17,
+      14,
+      0,
+      31
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2022-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2022-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 8,
+    "page": 2,
+    "expected": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "extracted": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2022-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      17,
+      12,
+      10,
+      0,
+      22
+    ],
+    "extracted": [
+      17,
+      12,
+      10,
+      0,
+      22
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2023-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      20,
+      12,
+      16,
+      0,
+      28
+    ],
+    "extracted": [
+      20,
+      12,
+      16,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2023-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      24,
+      17,
+      14,
+      0,
+      31
+    ],
+    "extracted": [
+      24,
+      17,
+      14,
+      0,
+      31
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2023-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2023-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 7,
+    "page": 2,
+    "expected": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "extracted": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2023-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "extracted": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2023-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "extracted": [
+      22,
+      16,
+      12,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2023-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      24,
+      17,
+      14,
+      0,
+      31
+    ],
+    "extracted": [
+      24,
+      17,
+      14,
+      0,
+      31
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2023-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2023-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 8,
+    "page": 2,
+    "expected": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "extracted": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2023-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      17,
+      12,
+      10,
+      0,
+      22
+    ],
+    "extracted": [
+      17,
+      12,
+      10,
+      0,
+      22
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2024-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      19,
+      13,
+      12,
+      0,
+      25
+    ],
+    "extracted": [
+      19,
+      13,
+      12,
+      0,
+      25
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2024-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2024-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "extracted": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2024-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 7,
+    "page": 1,
+    "expected": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "extracted": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2024-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "extracted": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2024-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      19,
+      12,
+      14,
+      0,
+      26
+    ],
+    "extracted": [
+      19,
+      12,
+      14,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2024-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2024-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "extracted": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2024-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 8,
+    "page": 2,
+    "expected": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "extracted": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2024-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "extracted": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2025-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      19,
+      12,
+      14,
+      0,
+      26
+    ],
+    "extracted": [
+      19,
+      12,
+      14,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2025-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2025-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "extracted": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2025-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 7,
+    "page": 1,
+    "expected": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "extracted": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2025-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "extracted": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2025-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      19,
+      12,
+      14,
+      0,
+      26
+    ],
+    "extracted": [
+      19,
+      12,
+      14,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2025-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2025-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "extracted": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2025-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 8,
+    "page": 2,
+    "expected": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "extracted": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2025-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "extracted": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2026-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 1,
+    "page": 1,
+    "expected": [
+      19,
+      12,
+      14,
+      0,
+      26
+    ],
+    "extracted": [
+      19,
+      12,
+      14,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2026-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 3,
+    "page": 1,
+    "expected": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "extracted": [
+      21,
+      14,
+      14,
+      0,
+      28
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2026-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 5,
+    "page": 1,
+    "expected": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "extracted": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2026-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 7,
+    "page": 1,
+    "expected": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "extracted": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2026-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 9,
+    "page": 2,
+    "expected": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "extracted": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2026-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 2,
+    "page": 1,
+    "expected": [
+      19,
+      12,
+      14,
+      0,
+      26
+    ],
+    "extracted": [
+      19,
+      12,
+      14,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2026-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 4,
+    "page": 1,
+    "expected": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "extracted": [
+      22,
+      15,
+      14,
+      0,
+      29
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2026-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 6,
+    "page": 1,
+    "expected": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "extracted": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2026-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 8,
+    "page": 2,
+    "expected": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "extracted": [
+      20,
+      14,
+      12,
+      0,
+      26
+    ],
+    "ok": true
+  },
+  {
+    "source": "Ingeniería De Sistemas/2026-1 - Ingeniería De Sistemas.pdf",
+    "cycle": 10,
+    "page": 2,
+    "expected": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "extracted": [
+      23,
+      16,
+      14,
+      0,
+      30
+    ],
+    "ok": true
+  }
+]

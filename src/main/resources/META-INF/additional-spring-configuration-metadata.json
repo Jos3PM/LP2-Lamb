@@ -1,0 +1,15 @@
+{
+  "properties": [
+    {
+      "name": "app.cors.origins",
+      "type": "java.lang.String",
+      "description": "Orígenes permitidos por la configuración CORS de FIA."
+    },
+    {
+      "name": "app.seed.enabled",
+      "type": "java.lang.Boolean",
+      "defaultValue": false,
+      "description": "Habilita la importación inicial de fuentes FIA."
+    }
+  ]
+}
